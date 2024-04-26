@@ -18,6 +18,7 @@ main {
     height: 60vh;
     width: 100%;
     background: #78786F;
+    border-bottom: 2px solid #C2C4AC;
 }
 
 .flex {
