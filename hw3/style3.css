@@ -1,0 +1,32 @@
+section{
+
+    margin: 0;
+    border-bottom-width: 1px;
+}
+
+header, footer{
+    height: 10vh;
+    width: 100%;
+    background: #D9D9D9;
+}
+aside {
+    height: 20vh;
+    width: 100%;
+    background: #C2C4AC;
+}
+main {
+    height: 60vh;
+    width: 100%;
+    background: #78786F;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    border-bottom-width: 2px;
+    background: #9EA087;
+
+    flex-direction: row;
+    align-items: center;
+}
